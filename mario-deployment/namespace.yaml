@@ -1,0 +1,4 @@
+kind: Namespave
+apiVersion: v1
+metadata:
+  name: mario
